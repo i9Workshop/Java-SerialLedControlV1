@@ -1,6 +1,6 @@
 ## Serial Led Control V1
 
-![Software-Serial-Led-Control-V1](https://github.com/user-attachments/assets/d045ab99-7820-4355-b8cf-425cdde1d7fe)
+![Software-Java-Serial-Led-Control-V1](https://github.com/user-attachments/assets/bb9d7277-cd0c-421c-a3f7-6be13ab747b7)
 <br/>
 <br/>
 
